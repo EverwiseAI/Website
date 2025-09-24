@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:01:53	109/109	---M-Z	200	added ('OK')	text/plain	etag:%2226b7f788623fd6aaae10b1f4deb134be%22	https://humorous-cues-870226.framer.app/robots.txt		(from )
+17:01:53	756070/756070	---M-Z	200	added ('OK')	text/html	etag:%226235fe0f37d44dc4143dbf4d381df973%22	https://humorous-cues-870226.framer.app/	Website/humorous-cues-870226.framer.app/index.html	(from )
